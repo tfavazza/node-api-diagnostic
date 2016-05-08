@@ -39,18 +39,9 @@ This includes referencing talk materials, appropriate documentation, and
 searching for help online.
 
 You should be running `grunt nag` before diagnosing any bugs, since it finds
-some of the most common sources of errors. Test your script by running it
-against the provided example files:
+some of the most common sources of errors.
 
-```sh
-# for example
-node lib/diagnostic.js integers.txt #=> 15
-```
-
--   [`integers.txt`](integers.txt)
--   [`numbers.txt`](numbers.txt)
--   [`blanks.txt`](blanks.txt)
--   [`strings.txt`](strings.txt)
+Test your code by running `grunt test`
 
 ## [License](LICENSE)
 
