@@ -41,7 +41,7 @@ searching for help online.
 You should be running `grunt nag` before diagnosing any bugs, since it finds
 some of the most common sources of errors.
 
-Test your code by running `grunt test`
+Test your code by running `grunt test`.
 
 ## [License](LICENSE)
 
